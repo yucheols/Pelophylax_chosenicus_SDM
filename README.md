@@ -1,2 +1,2 @@
 # Pelophylax_chosenicus_SDM
-MaxEnt species distribution modeling workflow for Pelophylax chosenicus
+MaxEnt species distribution modeling workflow in R for Pelophylax chosenicus 
